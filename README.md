@@ -32,7 +32,7 @@ Kolom:
 ![Bar Chart Penjualan](total_pendapatan_per_produk.png)
 
 ### Distribusi Jumlah Barang Terjual
-![Pie Chart Penjualan](distribusi_jumlah_barang_terjual_per_produk.png)
+![Pie Chart Penjualan](disitribusi_jumlah_barang_terjual_per_produk.png)
 
 ---
 
